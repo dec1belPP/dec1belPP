@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      I am whatever you say I am;<br>
+      if I wasn't, why would you say I am?<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
 
-<!--
-**dec1belPP/dec1belPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+<summary><samp>extend</samp></summary>
