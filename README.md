@@ -2,7 +2,7 @@
   <p align="center">
     <samp>
       We read the world wrong<br>
-      and say that it decieves us 🤍<br>
+      and say that it decieves us ❤<br>
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
