@@ -1,8 +1,8 @@
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
-      I am whatever you say I am;<br>
-      if I wasn't, why would you say I am?<br>
+      We read the world wrong<br>
+      and say that it decieves us 🤍<br>
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
